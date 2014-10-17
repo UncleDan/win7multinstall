@@ -1,7 +1,6 @@
-************************************************************************
-* QUICK AND DIRTY MICROSOFT WINDOWS SEVEN ALL-IN-ONE-INSTALLER CREATOR *
-*                       by UncleDan 24/09/2014                         *
-************************************************************************
+QUICK AND DIRTY MICROSOFT WINDOWS SEVEN ALL-IN-ONE-INSTALLER CREATOR
+                       by UncleDan 24/09/2014
+
 You will need:
 - WAIK 3.0
   http://www.microsoft.com/en-us/download/details.aspx?id=5753
@@ -10,6 +9,7 @@ You will need:
 - 7-Zip
   http://www.7-zip.org/
 - PATIENCE!
+
 Based on:
 - http://technet.microsoft.com/en-us/library/dd744261(v=ws.10).aspx
 
@@ -19,7 +19,7 @@ may be trademarks of their respective owners or registered trademarks
 of other companies and are used for purposes of explanation and to the
 owner's benefit, without implying a violation of copyright law.
 
-Copyright (c) 2014, Daniele Lolli a.k.a. UncleDan ^<uncledan@uncledan.it^>
+Copyright (c) 2014, Daniele Lolli a.k.a. UncleDan <uncledan@uncledan.it>
 
 Permission to use, copy, modify, and/or distribute this software
 for any purpose with or without fee is hereby granted, provided
